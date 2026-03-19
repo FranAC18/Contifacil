@@ -1,8 +1,8 @@
 const cardData = {
     profile: {
-        name: "Contifacil",
-        title: "Distribuidor autorizado de Contifico",
-        description: "Asesoria Contable • tributaria laboral • Servicios Societarios",
+        name: "Contifácil",
+        title: "Distribuidor autorizado de Contifácil",
+        description: "Asesoría Contable • tributaria laboral • Servicios Societarios",
         // La imagen que se cargará, sube tu logo a la carpeta assets/img/mostaza.png
         image: "assets/img/contifacil.png",
         // Imagen de respaldo si no encuentra la principal
