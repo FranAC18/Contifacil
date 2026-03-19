@@ -9,8 +9,8 @@ const cardData = {
         fallbackImage: "https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&q=80&w=256&h=256"
     },
     contact: {
-        phone: "593993578431", // Solo números y código de país, usado para enlaces de WhatsApp y llamada
-        phoneDisplay: "+593 99 357 8431 ", // Usado para mostrar visualmente en la vCard
+        phone: "593999463688", // Solo números y código de país, usado para enlaces de WhatsApp y llamada
+        phoneDisplay: "+593 99 946 3688 ", // Usado para mostrar visualmente en la vCard
         email: "vguerra@contifacil.com",
         whatsappMessage: "Hola, me gustaría obtener más información sobre sus servicios.",
         company: "ContiFacil",
